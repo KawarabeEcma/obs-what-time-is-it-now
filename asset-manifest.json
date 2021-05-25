@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/what-time-is-it-now/static/css/main.8acc0125.chunk.css",
-    "main.js": "/what-time-is-it-now/static/js/main.31bd111b.chunk.js",
-    "main.js.map": "/what-time-is-it-now/static/js/main.31bd111b.chunk.js.map",
+    "main.css": "/what-time-is-it-now/static/css/main.916fc840.chunk.css",
+    "main.js": "/what-time-is-it-now/static/js/main.d582ec6c.chunk.js",
+    "main.js.map": "/what-time-is-it-now/static/js/main.d582ec6c.chunk.js.map",
     "runtime-main.js": "/what-time-is-it-now/static/js/runtime-main.a990ad2c.js",
     "runtime-main.js.map": "/what-time-is-it-now/static/js/runtime-main.a990ad2c.js.map",
     "static/js/2.9ebd3e08.chunk.js": "/what-time-is-it-now/static/js/2.9ebd3e08.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e95d2954.chunk.js": "/what-time-is-it-now/static/js/3.e95d2954.chunk.js",
     "static/js/3.e95d2954.chunk.js.map": "/what-time-is-it-now/static/js/3.e95d2954.chunk.js.map",
     "index.html": "/what-time-is-it-now/index.html",
-    "static/css/main.8acc0125.chunk.css.map": "/what-time-is-it-now/static/css/main.8acc0125.chunk.css.map",
+    "static/css/main.916fc840.chunk.css.map": "/what-time-is-it-now/static/css/main.916fc840.chunk.css.map",
     "static/js/2.9ebd3e08.chunk.js.LICENSE.txt": "/what-time-is-it-now/static/js/2.9ebd3e08.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a990ad2c.js",
     "static/js/2.9ebd3e08.chunk.js",
-    "static/css/main.8acc0125.chunk.css",
-    "static/js/main.31bd111b.chunk.js"
+    "static/css/main.916fc840.chunk.css",
+    "static/js/main.d582ec6c.chunk.js"
   ]
 }
