@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/what-time-is-it-now/static/css/main.916fc840.chunk.css",
-    "main.js": "/what-time-is-it-now/static/js/main.d582ec6c.chunk.js",
-    "main.js.map": "/what-time-is-it-now/static/js/main.d582ec6c.chunk.js.map",
-    "runtime-main.js": "/what-time-is-it-now/static/js/runtime-main.a990ad2c.js",
-    "runtime-main.js.map": "/what-time-is-it-now/static/js/runtime-main.a990ad2c.js.map",
-    "static/js/2.9ebd3e08.chunk.js": "/what-time-is-it-now/static/js/2.9ebd3e08.chunk.js",
-    "static/js/2.9ebd3e08.chunk.js.map": "/what-time-is-it-now/static/js/2.9ebd3e08.chunk.js.map",
-    "static/js/3.e95d2954.chunk.js": "/what-time-is-it-now/static/js/3.e95d2954.chunk.js",
-    "static/js/3.e95d2954.chunk.js.map": "/what-time-is-it-now/static/js/3.e95d2954.chunk.js.map",
-    "index.html": "/what-time-is-it-now/index.html",
-    "static/css/main.916fc840.chunk.css.map": "/what-time-is-it-now/static/css/main.916fc840.chunk.css.map",
-    "static/js/2.9ebd3e08.chunk.js.LICENSE.txt": "/what-time-is-it-now/static/js/2.9ebd3e08.chunk.js.LICENSE.txt"
+    "main.css": "/obs-what-time-is-it-now/static/css/main.916fc840.chunk.css",
+    "main.js": "/obs-what-time-is-it-now/static/js/main.66f49f61.chunk.js",
+    "main.js.map": "/obs-what-time-is-it-now/static/js/main.66f49f61.chunk.js.map",
+    "runtime-main.js": "/obs-what-time-is-it-now/static/js/runtime-main.531170a8.js",
+    "runtime-main.js.map": "/obs-what-time-is-it-now/static/js/runtime-main.531170a8.js.map",
+    "static/js/2.6877c940.chunk.js": "/obs-what-time-is-it-now/static/js/2.6877c940.chunk.js",
+    "static/js/2.6877c940.chunk.js.map": "/obs-what-time-is-it-now/static/js/2.6877c940.chunk.js.map",
+    "static/js/3.9f982975.chunk.js": "/obs-what-time-is-it-now/static/js/3.9f982975.chunk.js",
+    "static/js/3.9f982975.chunk.js.map": "/obs-what-time-is-it-now/static/js/3.9f982975.chunk.js.map",
+    "index.html": "/obs-what-time-is-it-now/index.html",
+    "static/css/main.916fc840.chunk.css.map": "/obs-what-time-is-it-now/static/css/main.916fc840.chunk.css.map",
+    "static/js/2.6877c940.chunk.js.LICENSE.txt": "/obs-what-time-is-it-now/static/js/2.6877c940.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a990ad2c.js",
-    "static/js/2.9ebd3e08.chunk.js",
+    "static/js/runtime-main.531170a8.js",
+    "static/js/2.6877c940.chunk.js",
     "static/css/main.916fc840.chunk.css",
-    "static/js/main.d582ec6c.chunk.js"
+    "static/js/main.66f49f61.chunk.js"
   ]
 }
